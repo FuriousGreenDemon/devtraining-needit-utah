@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="5fe25e7783038e10c62d7a65eeaad32a" sys_domain="global" table="x_58872_needit_needit2" version="3" view="">
+        <sys_ui_element action="DELETE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>7672ecbd8323c210c62d7a65eeaad32d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="DELETE">
+            <element>u_requested_for</element>
+            <position>1</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>7272ecbd8323c210c62d7a65eeaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="DELETE">
+            <element>u_request_type</element>
+            <position>2</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>f672ecbd8323c210c62d7a65eeaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="DELETE">
+            <element>u_what_needed</element>
+            <position>3</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>7e72ecbd8323c210c62d7a65eeaad32e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="DELETE">
+            <element>u_other</element>
+            <position>4</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>f272ecbd8323c210c62d7a65eeaad32f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="DELETE">
+            <element>u_when_needed</element>
+            <position>5</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>7a72ecbd8323c210c62d7a65eeaad32f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="DELETE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>b272ecbd8323c210c62d7a65eeaad36e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="DELETE">
+            <element>priority</element>
+            <position>7</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>3a72ecbd8323c210c62d7a65eeaad36e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="DELETE">
+            <element>state</element>
+            <position>8</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>be72ecbd8323c210c62d7a65eeaad36e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="DELETE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>3672ecbd8323c210c62d7a65eeaad36f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="DELETE">
+            <element>short_description</element>
+            <position>10</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>ba72ecbd8323c210c62d7a65eeaad36f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="DELETE">
+            <element>description</element>
+            <position>11</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>3272ecbd8323c210c62d7a65eeaad370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="DELETE">
+            <element>work_notes</element>
+            <position>12</position>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-22 17:07:27</sys_created_on>
+            <sys_id>b672ecbd8323c210c62d7a65eeaad370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-22 17:07:27</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_58872_needit_needit2</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>ian.admin</sys_created_by>
+            <sys_created_on>2024-07-04 09:55:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5fe25e7783038e10c62d7a65eeaad32a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit2</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_5fe25e7783038e10c62d7a65eeaad32a</sys_update_name>
+            <sys_updated_by>ian.admin</sys_updated_by>
+            <sys_updated_on>2024-07-04 09:55:11</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>218f3d5fdbb13150caf99027c596197b</instance_id>
+        <instance_name>dev186946</instance_name>
+        <name>sys_ui_section_5fe25e7783038e10c62d7a65eeaad32a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="5fe25e7783038e10c62d7a65eeaad32a" sys_domain="global" table="x_58872_needit_needit2" version="3" view=""><sys_ui_element action="DELETE"><element>number</element><position>0</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>7672ecbd8323c210c62d7a65eeaad32d</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="DELETE"><element>u_requested_for</element><position>1</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>7272ecbd8323c210c62d7a65eeaad32e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="DELETE"><element>u_request_type</element><position>2</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>f672ecbd8323c210c62d7a65eeaad32e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="DELETE"><element>u_what_needed</element><position>3</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>7e72ecbd8323c210c62d7a65eeaad32e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="DELETE"><element>u_other</element><position>4</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>f272ecbd8323c210c62d7a65eeaad32f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="DELETE"><element>u_when_needed</element><position>5</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>7a72ecbd8323c210c62d7a65eeaad32f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="DELETE"><element>.split</element><position>6</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>b272ecbd8323c210c62d7a65eeaad36e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="DELETE"><element>priority</element><position>7</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>3a72ecbd8323c210c62d7a65eeaad36e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="DELETE"><element>state</element><position>8</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>be72ecbd8323c210c62d7a65eeaad36e</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="DELETE"><element>.end_split</element><position>9</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>3672ecbd8323c210c62d7a65eeaad36f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="DELETE"><element>short_description</element><position>10</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>ba72ecbd8323c210c62d7a65eeaad36f</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="DELETE"><element>description</element><position>11</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>3272ecbd8323c210c62d7a65eeaad370</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="DELETE"><element>work_notes</element><position>12</position><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-22 17:07:27</sys_created_on><sys_id>b672ecbd8323c210c62d7a65eeaad370</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">5fe25e7783038e10c62d7a65eeaad32a</sys_ui_section><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-22 17:07:27</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="DELETE"><caption/><header>false</header><name>x_58872_needit_needit2</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>ian.admin</sys_created_by><sys_created_on>2024-07-04 09:55:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>5fe25e7783038e10c62d7a65eeaad32a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_58872_needit_needit2</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_5fe25e7783038e10c62d7a65eeaad32a</sys_update_name><sys_updated_by>ian.admin</sys_updated_by><sys_updated_on>2024-07-04 09:55:11</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-2003991308</payload_hash>
+        <record_name>x_58872_needit_needit2</record_name>
+        <reverted_from/>
+        <source>0b6faba983238210c62d7a65eeaad34f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-24 17:01:04</sys_created_on>
+        <sys_id>7c3436568327c210c62d7a65eeaad355</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190e5b073dc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 17:01:04</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>f03436562d27c210dd2aedb4688f6655</update_guid>
+        <update_guid_history>f03436562d27c210dd2aedb4688f6655:-2003991308,ba72ecbd5323c210a385678a62e0f072:-233026700,4003af733d0f8e10a6eb7599c46db898:91166750,13326333840f8e107d0b97674356f277:-1157954937,8950ebfb3acb8e10ab0df0df23cdb00d:-29616251,3eaf93bb56cb8e10b8ade30e60c8d40d:-763663703,592f9f3befcb8e10586e97436062cc81:-1087857432,9d2f9f3bf5cb8e10b3b054b6a7f55d68:-2060689661</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ian.admin</sys_created_by>
+        <sys_created_on>2024-07-24 17:01:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>06e78e4a3d1a49e688ebbdf69fdbf384</sys_id>
+        <sys_metadata>5fe25e7783038e10c62d7a65eeaad32a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">fede8e6b838bca10c62d7a65eeaad3fb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_5fe25e7783038e10c62d7a65eeaad32a</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_5fe25e7783038e10c62d7a65eeaad32a">7c3436568327c210c62d7a65eeaad355</sys_update_version>
+        <sys_updated_by>ian.admin</sys_updated_by>
+        <sys_updated_on>2024-07-24 17:01:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
